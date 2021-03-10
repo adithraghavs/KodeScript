@@ -1,5 +1,0 @@
-func holaAmigo() {
-    print("Kon'nichiwa!")
-}
-
-holaAmigo()
